@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0831-masking-personal-information](https://github.com/Princetak10/leetcode-solutions/tree/master/0831-masking-personal-information) |
 | [0917-reverse-only-letters](https://github.com/Princetak10/leetcode-solutions/tree/master/0917-reverse-only-letters) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Princetak10/leetcode-solutions/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Array
 |  |
 | ------- |
@@ -63,4 +64,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Princetak10/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Princetak10/leetcode-solutions/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Greedy
+|  |
+| ------- |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Princetak10/leetcode-solutions/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Memoization
+|  |
+| ------- |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Princetak10/leetcode-solutions/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
