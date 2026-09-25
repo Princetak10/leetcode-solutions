@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Princetak10/leetcode-solutions/tree/master/0179-largest-number) |
 | [0383-ransom-note](https://github.com/Princetak10/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0831-masking-personal-information](https://github.com/Princetak10/leetcode-solutions/tree/master/0831-masking-personal-information) |
 | [0917-reverse-only-letters](https://github.com/Princetak10/leetcode-solutions/tree/master/0917-reverse-only-letters) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Princetak10/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Princetak10/leetcode-solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Princetak10/leetcode-solutions/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/Princetak10/leetcode-solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Princetak10/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0456-132-pattern](https://github.com/Princetak10/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0605-can-place-flowers](https://github.com/Princetak10/leetcode-solutions/tree/master/0605-can-place-flowers) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Princetak10/leetcode-solutions/tree/master/0179-largest-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Princetak10/leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Geometry
 |  |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Princetak10/leetcode-solutions/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/Princetak10/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [1975-maximum-matrix-sum](https://github.com/Princetak10/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Princetak10/leetcode-solutions/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
