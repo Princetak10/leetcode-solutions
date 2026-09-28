@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Princetak10/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0831-masking-personal-information](https://github.com/Princetak10/leetcode-solutions/tree/master/0831-masking-personal-information) |
 | [0917-reverse-only-letters](https://github.com/Princetak10/leetcode-solutions/tree/master/0917-reverse-only-letters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Princetak10/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Princetak10/leetcode-solutions/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3498-reverse-degree-of-a-string](https://github.com/Princetak10/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Princetak10/leetcode-solutions/tree/master/0456-132-pattern) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Princetak10/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Princetak10/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Princetak10/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
