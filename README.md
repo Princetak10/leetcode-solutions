@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/Princetak10/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Princetak10/leetcode-solutions/tree/master/0066-plus-one) |
+| [0120-triangle](https://github.com/Princetak10/leetcode-solutions/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Princetak10/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Princetak10/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/Princetak10/leetcode-solutions/tree/master/0179-largest-number) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Princetak10/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Princetak10/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/Princetak10/leetcode-solutions/tree/master/0120-triangle) |
 | [0746-min-cost-climbing-stairs](https://github.com/Princetak10/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Princetak10/leetcode-solutions/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Greedy
