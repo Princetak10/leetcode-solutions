@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Princetak10/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Princetak10/leetcode-solutions/tree/master/0066-plus-one) |
 | [0120-triangle](https://github.com/Princetak10/leetcode-solutions/tree/master/0120-triangle) |
+| [0134-gas-station](https://github.com/Princetak10/leetcode-solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Princetak10/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Princetak10/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/Princetak10/leetcode-solutions/tree/master/0164-maximum-gap) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Princetak10/leetcode-solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Princetak10/leetcode-solutions/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/Princetak10/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [1975-maximum-matrix-sum](https://github.com/Princetak10/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
