@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Princetak10/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0456-132-pattern](https://github.com/Princetak10/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0605-can-place-flowers](https://github.com/Princetak10/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0704-binary-search](https://github.com/Princetak10/leetcode-solutions/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Princetak10/leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0746-min-cost-climbing-stairs](https://github.com/Princetak10/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Princetak10/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Princetak10/leetcode-solutions/tree/master/0456-132-pattern) |
+| [0704-binary-search](https://github.com/Princetak10/leetcode-solutions/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Princetak10/leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Stack
 |  |
