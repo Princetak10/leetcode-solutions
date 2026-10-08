@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Princetak10/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Princetak10/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0941-valid-mountain-array](https://github.com/Princetak10/leetcode-solutions/tree/master/0941-valid-mountain-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Princetak10/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1975-maximum-matrix-sum](https://github.com/Princetak10/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Princetak10/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Princetak10/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Princetak10/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/Princetak10/leetcode-solutions/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Princetak10/leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Princetak10/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Stack
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Princetak10/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/Princetak10/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Princetak10/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Princetak10/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Princetak10/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Princetak10/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Princetak10/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Princetak10/leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0917-reverse-only-letters](https://github.com/Princetak10/leetcode-solutions/tree/master/0917-reverse-only-letters) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Princetak10/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Princetak10/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Princetak10/leetcode-solutions/tree/master/0179-largest-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Princetak10/leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Princetak10/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Geometry
 |  |
 | ------- |
