@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Princetak10/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Princetak10/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Princetak10/leetcode-solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Princetak10/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Princetak10/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Princetak10/leetcode-solutions/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/Princetak10/leetcode-solutions/tree/master/0134-gas-station) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Princetak10/leetcode-solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Princetak10/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Princetak10/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Princetak10/leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0917-reverse-only-letters](https://github.com/Princetak10/leetcode-solutions/tree/master/0917-reverse-only-letters) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Princetak10/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Princetak10/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Princetak10/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Princetak10/leetcode-solutions/tree/master/0179-largest-number) |
@@ -240,4 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Princetak10/leetcode-solutions/tree/master/0274-h-index) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Princetak10/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Princetak10/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
