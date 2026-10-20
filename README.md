@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Princetak10/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Princetak10/leetcode-solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [3870-count-commas-in-range](https://github.com/Princetak10/leetcode-solutions/tree/master/3870-count-commas-in-range) |
+| [3886-sum-of-sortable-integers](https://github.com/Princetak10/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/Princetak10/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Princetak10/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Princetak10/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/Princetak10/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Princetak10/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Princetak10/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/Princetak10/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Princetak10/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Princetak10/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Princetak10/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/Princetak10/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Geometry
 |  |
 | ------- |
