@@ -3,7 +3,7 @@ public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
         int n1 = nums2.size();
         int n2 = nums1.size();
-        vector<int> ans = {};
+        vector<int> ans;
         for(int i = 0; i < n2; i++) {
             int j = 0;
             while(j < n1 && nums2[j] != nums1[i]) {
