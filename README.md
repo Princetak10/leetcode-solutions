@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Princetak10/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0165-compare-version-numbers](https://github.com/Princetak10/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/Princetak10/leetcode-solutions/tree/master/0179-largest-number) |
 | [0383-ransom-note](https://github.com/Princetak10/leetcode-solutions/tree/master/0383-ransom-note) |
