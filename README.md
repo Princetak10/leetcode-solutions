@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Princetak10/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Princetak10/leetcode-solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1927-sum-game](https://github.com/Princetak10/leetcode-solutions/tree/master/1927-sum-game) |
+| [2364-count-number-of-bad-pairs](https://github.com/Princetak10/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2409-count-days-spent-together](https://github.com/Princetak10/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3870-count-commas-in-range](https://github.com/Princetak10/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3886-sum-of-sortable-integers](https://github.com/Princetak10/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Princetak10/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1975-maximum-matrix-sum](https://github.com/Princetak10/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Princetak10/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2364-count-number-of-bad-pairs](https://github.com/Princetak10/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Princetak10/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Princetak10/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Princetak10/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Princetak10/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Princetak10/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/Princetak10/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2364-count-number-of-bad-pairs](https://github.com/Princetak10/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Princetak10/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Princetak10/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Princetak10/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Princetak10/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Princetak10/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1512-number-of-good-pairs](https://github.com/Princetak10/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2364-count-number-of-bad-pairs](https://github.com/Princetak10/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
