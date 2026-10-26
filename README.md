@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Princetak10/leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Princetak10/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Princetak10/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/Princetak10/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0365-water-and-jug-problem](https://github.com/Princetak10/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0509-fibonacci-number](https://github.com/Princetak10/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0738-monotone-increasing-digits](https://github.com/Princetak10/leetcode-solutions/tree/master/0738-monotone-increasing-digits) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Princetak10/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Princetak10/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Princetak10/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
