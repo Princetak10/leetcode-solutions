@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Princetak10/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Princetak10/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Princetak10/leetcode-solutions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Princetak10/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Princetak10/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0365-water-and-jug-problem](https://github.com/Princetak10/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0509-fibonacci-number](https://github.com/Princetak10/leetcode-solutions/tree/master/0509-fibonacci-number) |
