@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Princetak10/leetcode-solutions/tree/master/1927-sum-game) |
 | [2364-count-number-of-bad-pairs](https://github.com/Princetak10/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2409-count-days-spent-together](https://github.com/Princetak10/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Princetak10/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Princetak10/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3886-sum-of-sortable-integers](https://github.com/Princetak10/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## String
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/Princetak10/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Princetak10/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Princetak10/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Princetak10/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/Princetak10/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
