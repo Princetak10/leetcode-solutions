@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Princetak10/leetcode-solutions/tree/master/1927-sum-game) |
 | [2364-count-number-of-bad-pairs](https://github.com/Princetak10/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2409-count-days-spent-together](https://github.com/Princetak10/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Princetak10/leetcode-solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Princetak10/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Princetak10/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3886-sum-of-sortable-integers](https://github.com/Princetak10/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Princetak10/leetcode-solutions/tree/master/0258-add-digits) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Princetak10/leetcode-solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Princetak10/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Princetak10/leetcode-solutions/tree/master/1927-sum-game) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Princetak10/leetcode-solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
