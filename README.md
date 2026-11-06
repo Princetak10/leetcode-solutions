@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Princetak10/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1512-number-of-good-pairs](https://github.com/Princetak10/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Princetak10/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Princetak10/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Princetak10/leetcode-solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1927-sum-game](https://github.com/Princetak10/leetcode-solutions/tree/master/1927-sum-game) |
 | [2364-count-number-of-bad-pairs](https://github.com/Princetak10/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Princetak10/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/Princetak10/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Princetak10/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Princetak10/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1975-maximum-matrix-sum](https://github.com/Princetak10/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Princetak10/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/Princetak10/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
