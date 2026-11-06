@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Princetak10/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0738-monotone-increasing-digits](https://github.com/Princetak10/leetcode-solutions/tree/master/0738-monotone-increasing-digits) |
 | [0836-rectangle-overlap](https://github.com/Princetak10/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [0887-super-egg-drop](https://github.com/Princetak10/leetcode-solutions/tree/master/0887-super-egg-drop) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Princetak10/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1512-number-of-good-pairs](https://github.com/Princetak10/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Princetak10/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Princetak10/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/Princetak10/leetcode-solutions/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Princetak10/leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0887-super-egg-drop](https://github.com/Princetak10/leetcode-solutions/tree/master/0887-super-egg-drop) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Princetak10/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Princetak10/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Princetak10/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Princetak10/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Princetak10/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Princetak10/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0887-super-egg-drop](https://github.com/Princetak10/leetcode-solutions/tree/master/0887-super-egg-drop) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Princetak10/leetcode-solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Princetak10/leetcode-solutions/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Greedy
