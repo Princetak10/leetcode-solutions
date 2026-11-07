@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Princetak10/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Princetak10/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Princetak10/leetcode-solutions/tree/master/0274-h-index) |
+| [0322-coin-change](https://github.com/Princetak10/leetcode-solutions/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Princetak10/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/Princetak10/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Princetak10/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Princetak10/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Princetak10/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Princetak10/leetcode-solutions/tree/master/0120-triangle) |
+| [0322-coin-change](https://github.com/Princetak10/leetcode-solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Princetak10/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Princetak10/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Princetak10/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Princetak10/leetcode-solutions/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/Princetak10/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 ## Bézout's Lemma
 |  |
@@ -377,4 +380,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Princetak10/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Princetak10/leetcode-solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Princetak10/leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
