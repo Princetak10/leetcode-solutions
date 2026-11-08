@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Princetak10/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Princetak10/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0941-valid-mountain-array](https://github.com/Princetak10/leetcode-solutions/tree/master/0941-valid-mountain-array) |
+| [1267-count-servers-that-communicate](https://github.com/Princetak10/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Princetak10/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Princetak10/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/Princetak10/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Princetak10/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [1267-count-servers-that-communicate](https://github.com/Princetak10/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1975-maximum-matrix-sum](https://github.com/Princetak10/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 ## Simulation
 |  |
@@ -258,17 +260,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Princetak10/leetcode-solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Princetak10/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Princetak10/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1267-count-servers-that-communicate](https://github.com/Princetak10/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/Princetak10/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2364-count-number-of-bad-pairs](https://github.com/Princetak10/leetcode-solutions/tree/master/2364-count-number-of-bad-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Princetak10/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
+| [1267-count-servers-that-communicate](https://github.com/Princetak10/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Princetak10/leetcode-solutions/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/Princetak10/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
+| [1267-count-servers-that-communicate](https://github.com/Princetak10/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 ## Bézout's Lemma
 |  |
 | ------- |
@@ -388,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Princetak10/leetcode-solutions/tree/master/0322-coin-change) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Princetak10/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
