@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Princetak10/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Princetak10/leetcode-solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Princetak10/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Princetak10/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/Princetak10/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3886-sum-of-sortable-integers](https://github.com/Princetak10/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## String
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Princetak10/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Princetak10/leetcode-solutions/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Princetak10/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Princetak10/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Memoization
 |  |
 | ------- |
