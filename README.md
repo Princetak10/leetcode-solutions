@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Princetak10/leetcode-solutions/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/Princetak10/leetcode-solutions/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Princetak10/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0414-third-maximum-number](https://github.com/Princetak10/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Princetak10/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/Princetak10/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Princetak10/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Princetak10/leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Princetak10/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Princetak10/leetcode-solutions/tree/master/0274-h-index) |
+| [0414-third-maximum-number](https://github.com/Princetak10/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Princetak10/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Princetak10/leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Princetak10/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
