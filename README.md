@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Princetak10/leetcode-solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Princetak10/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Princetak10/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/Princetak10/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Princetak10/leetcode-solutions/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/Princetak10/leetcode-solutions/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Princetak10/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Princetak10/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/Princetak10/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -417,9 +419,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Princetak10/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Princetak10/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Princetak10/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Princetak10/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Princetak10/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Princetak10/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
