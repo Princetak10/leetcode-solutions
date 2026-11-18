@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Princetak10/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Princetak10/leetcode-solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Princetak10/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Princetak10/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Princetak10/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Princetak10/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Princetak10/leetcode-solutions/tree/master/0274-h-index) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Princetak10/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Princetak10/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0456-132-pattern](https://github.com/Princetak10/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/Princetak10/leetcode-solutions/tree/master/0704-binary-search) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Princetak10/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Princetak10/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Princetak10/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Game Theory
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Princetak10/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Princetak10/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Princetak10/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Queue
