@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Princetak10/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Princetak10/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Princetak10/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Princetak10/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Princetak10/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Princetak10/leetcode-solutions/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/Princetak10/leetcode-solutions/tree/master/0322-coin-change) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Princetak10/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Princetak10/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Princetak10/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Princetak10/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/Princetak10/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Princetak10/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Princetak10/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Princetak10/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Princetak10/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Princetak10/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Princetak10/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Queue
