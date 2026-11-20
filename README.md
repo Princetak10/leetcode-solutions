@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Princetak10/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/Princetak10/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Princetak10/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1652-defuse-the-bomb](https://github.com/Princetak10/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Princetak10/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1975-maximum-matrix-sum](https://github.com/Princetak10/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Princetak10/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Princetak10/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Princetak10/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Princetak10/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [1652-defuse-the-bomb](https://github.com/Princetak10/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Princetak10/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Queue
 |  |
